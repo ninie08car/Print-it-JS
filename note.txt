@@ -43,5 +43,11 @@ Renommer Master en main
 Lien origin vers le dépot distant sur GitHub
 # git remote add origin git@github.com:FaisonsLePoint/git_base.git
 # git remote -v
+# git push origin main (ou le nom d'une autre branche)
 
-# git push -u origin main
+Remonte toutes les branches
+# git push origin --all
+
+Ramener de code distant vers local
+# git pull
+
