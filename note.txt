@@ -20,6 +20,9 @@ Affichage des commit
 
 Revenir sur commit précédent
 # git checkout <commit id>
+ATTENTION si  # git log --oneline ==> (HEAD,MAIN)
+Au lieu de (HEAD-->MAIN) 
+Faire git checkout branch
 
 Supprimer l'historique des commit
 Remove-Item -Recurse -Force .git
