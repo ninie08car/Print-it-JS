@@ -28,5 +28,6 @@ Au lieu de (HEAD-->MAIN)
 Faire git checkout branch
 
 Conflit de commit
-
+Fusion des branches
+# git merge 
 
