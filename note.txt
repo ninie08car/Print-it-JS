@@ -31,3 +31,10 @@ Conflit de commit
 Fusion des branches
 # git merge 
 
+Balise dans HTML
+header+main+footer
+
+Lien nav dans header
+nav>ul>li*3>a
+
+
