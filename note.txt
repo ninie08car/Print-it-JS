@@ -37,4 +37,10 @@ header+main+footer
 Lien nav dans header
 nav>ul>li*3>a
 
+Renommer Master en main
+# git branch -M main
 
+Lien origin vers le dépot distant sur GitHub
+# git remote add origin git@github.com:FaisonsLePoint/git_base.git
+
+# git push -u origin main
