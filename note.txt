@@ -15,6 +15,9 @@ Versionner
 Si besoin retout (ATTENTION SI PAS TROP DE MODIF)
 # git reset --hard <commit id>
 
+Supprimer l'historique des commit
+Remove-Item -Recurse -Force .git
+
 Affichage des commit
 # git log --oneline
 
@@ -24,5 +27,6 @@ ATTENTION si  # git log --oneline ==> (HEAD,MAIN)
 Au lieu de (HEAD-->MAIN) 
 Faire git checkout branch
 
-Supprimer l'historique des commit
-Remove-Item -Recurse -Force .git
+Conflit de commit
+
+
